@@ -66,6 +66,7 @@ ___
 A portable Sniffing Smartwatch that can detect low concentrations of VOCs.
 
 ![](images/sniffwatch1.png) ![](images/sniffwatch2.png)
+
 *University of Extremadura, [paper](https://www.cetjournal.it/cet/24/112/017.pdf)*
 
 **Food & Beverage Quality Control**
@@ -76,6 +77,7 @@ MOX sensor arrays deployed for wine aroma profiling, monitoring beer fermentatio
 SmellNet provides 50-substance multi-session recordings with cross-modal alignment to GC-MS elemental composition for learned representations of smell.
 
 ![smellnet](images/smellnet.png)
+
 *MIT Media Lab: [GitHub](https://github.com/MIT-MI/SmellNet)*
 
 **Industrial Safety & Quality**
