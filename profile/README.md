@@ -33,6 +33,9 @@ A reference e-nose design using cheap off-the-shelf components (ESP32 + MOX arra
 **Open Software**
 **[`Osmograph`](https://github.com/opensmell/osmograph)** is a zero‑code GUI for builders: it enforces the standard recording protocol, validates signal quality, trains substance classifiers with button clicks, flashes firmware the moment you plug in your device, and displays live sensor traces—no electronics background or coding required. For developers, we provide a Python SDK (`pip install opensmell`) to extract framework features and build custom pipelines.
 
+![](images/osmograph.png)
+![](images/classify.png)
+
 **Open Protocol**
 A standardised recording procedure that makes temporal features reproducible across different users and devices.
 
