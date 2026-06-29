@@ -65,7 +65,7 @@ ___
 **Wearable Odour Monitoring**
 A portable Sniffing Smartwatch that can detect low concentrations of VOCs.
 
-[![](images/sniffwatch1.png) [](images/sniffwatch2.png)]
+![](images/sniffwatch1.png) ![](images/sniffwatch2.png)
 *University of Extremadura, [paper](https://www.cetjournal.it/cet/24/112/017.pdf)*
 
 **Food & Beverage Quality Control**
