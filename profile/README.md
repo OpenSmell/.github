@@ -8,7 +8,7 @@ Technological progress is the externalisation of human capability. We modelled o
 
 But our chemical sense remains trapped in biology—subjective, unshareable, and unprogrammable. OpenSmell is building open infrastructure to digitise smell through open hardware, open protocols, and open data.
 
-![video.mp4](images/video.mp4)
+![](images/video.mp4)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?logo=discord&style=for-the-badge)](https://discord.gg/CGER3tHxbH)
 
@@ -76,7 +76,7 @@ MOX sensor arrays deployed for wine aroma profiling, monitoring beer fermentatio
 **Large-Scale Smell Datasets**
 SmellNet provides 50-substance multi-session recordings with cross-modal alignment to GC-MS elemental composition for learned representations of smell.
 
-![smellnet](images/smellnet.png)
+![](images/smellnet.png)
 
 *MIT Media Lab: [GitHub](https://github.com/MIT-MI/SmellNet)*
 
