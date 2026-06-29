@@ -8,7 +8,7 @@ Technological progress is the externalisation of human capability. We modelled o
 
 But our chemical sense remains trapped in biology—subjective, unshareable, and unprogrammable. OpenSmell is building open infrastructure to digitise smell through open hardware, open protocols, and open data.
 
-![](images/video.mp4)
+![video](images/montage.mp4)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?logo=discord&style=for-the-badge)](https://discord.gg/CGER3tHxbH)
 
