@@ -8,10 +8,7 @@ Technological progress is the externalisation of human capability. We modelled o
 
 But our chemical sense remains trapped in biology—subjective, unshareable, and unprogrammable. OpenSmell is building open infrastructure to digitise smell through open hardware, open protocols, and open data.
 
-<video width="600" controls>
-  <source src="images/montage.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![video](images/montage.mp4)
 
 [![Join Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?logo=discord&style=for-the-badge)](https://discord.gg/CGER3tHxbH)
 
@@ -33,7 +30,7 @@ But a complete predictive theory of olfaction isn't required to build the infras
 A reference e-nose design using cheap off-the-shelf components (ESP32 + MOX array). No custom PCB milling or electronics master-craft knowledge required. Just connect everything till you see lights :D.
 → [`electronic-nose/`](https://github.com/opensmell/electronic-nose)
 
-<img src="images/enose.jpg" alt="enose" width="600">
+<img src="images/enose.jpg" alt="enose" width="300">
 
 **Open Software**
 **[`Osmograph`](https://github.com/opensmell/osmograph)** is a zero‑code GUI for builders: it enforces the standard recording protocol, validates signal quality, trains substance classifiers with button clicks, flashes firmware the moment you plug in your device, and displays live sensor traces—no electronics background or coding required. For developers, we provide a Python SDK (`pip install opensmell`) to extract framework features and build custom pipelines.
