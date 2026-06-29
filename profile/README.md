@@ -29,6 +29,7 @@ But a complete predictive theory of olfaction isn't required to build the infras
 **Open Hardware**
 A reference e-nose design using cheap off-the-shelf components (ESP32 + MOX array). No custom PCB milling or electronics master-craft knowledge required. Just connect everything till you see lights :D.
 → [`electronic-nose/`](https://github.com/opensmell/electronic-nose)
+![](images/enose.png)
 
 **Open Software**
 **[`Osmograph`](https://github.com/opensmell/osmograph)** is a zero‑code GUI for builders: it enforces the standard recording protocol, validates signal quality, trains substance classifiers with button clicks, flashes firmware the moment you plug in your device, and displays live sensor traces—no electronics background or coding required. For developers, we provide a Python SDK (`pip install opensmell`) to extract framework features and build custom pipelines.
